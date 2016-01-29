@@ -1,0 +1,15 @@
+.titulo{
+    font-family: 'Inconsolata', 'console';
+}
+div{
+    border: 1px solid;
+}
+.centrar{
+    margin: 0 auto!important;
+/**
+ * float: none;
+ */
+}
+textarea {
+    resize: none;
+}
